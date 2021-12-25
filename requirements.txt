@@ -1,6 +1,5 @@
 google-api-python-client
 xlrd
-pprint
 pandas
 pandas_profiling
 numpy
